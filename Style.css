@@ -1,0 +1,44 @@
+body {
+    color: purple;
+    background-color:cornsilk;
+}
+
+h1 {
+    text-align:center;
+    margin: 3rem;
+   
+}
+
+.input-label {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 0.5rem;
+}
+
+main {
+    text-align: center;
+    
+}
+
+input {
+    margin-bottom: 2rem;
+    padding: 0.7rem;
+    border-color: black;
+}
+
+#submit-button {
+    margin:auto;
+    display: block;
+    padding: 0.5rem 0.7rem;
+    font-size: 1.1rem;
+    cursor: pointer;
+    border-radius: 0.3rem;
+    background-color: cyan;
+    font-weight: bold;
+}
+
+.output {
+    margin-top: 2rem;
+    font-size: 1.3rem;
+}
